@@ -46,6 +46,7 @@ Important
 
 Only scan systems you own or have permission to test (like Metasploitable).
 This is for learning and ethical hacking only.
+![Screenshot 2025-07-01 021047](https://github.com/user-attachments/assets/a5844cab-4000-4192-973f-3b16c87a2bb4)
 
 License
 MIT License
